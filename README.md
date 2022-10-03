@@ -10,7 +10,7 @@
 - `HTML5`
 - `CSS3`
 
-<h2>Bliblioteca e Font utilizada</h2>
+<h2>Biblioteca e Font utilizada</h2>
 
 - `JQuery`
 - Noto-Sans: `@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap');`
